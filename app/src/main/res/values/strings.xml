@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FBSU</string>
+
+    <string name="facebook_app_id">990521194390689</string>
+
+    <string name="welcome">Hello  </string>
+    <string name="cancel_login">Operation has been canceled</string>
+    <string name="error_login">Error in login process </string>
+
+    <string name="gender">Gender : </string>
+    <string name="name">Name : </string>
+    <string name="email">Email : </string>
+    <string name="birthDay">Birthday : </string>
+</resources>
